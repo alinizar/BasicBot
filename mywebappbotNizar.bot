@@ -1,0 +1,50 @@
+{
+  "name": "mywebappbotNizar",
+  "padlock": "5TCizmpkpHtqzZ53Bn/6Yw==!lGWn96tW6bfgkiXsz0phwf8FDtrdIjcj9se0LsW1z9SX1uFzFrkl7ZMj4MwXIJwW",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "436da2cb-facd-4548-8e07-863dbfb2c374",
+      "subscriptionId": "1d2c4243-4be0-474a-b212-2cd56f17ac85",
+      "resourceGroup": "AliNizarGroup",
+      "serviceName": "mywebappbotNizar",
+      "type": "abs",
+      "name": "mywebappbotNizar",
+      "id": "1"
+    },
+    {
+      "connectionString": "RXGnF/HSVDfW2PQYOBSsFw==!eu4d3FjuPHd8DAPclL82nhD6pai94Yp2eaIN+acy9hAgc6i1Jy7xKnaVZhhqy2YYdBp8t0DempXeUZ5eJLKenEBe+JpyQsSAbvkQCnHMdaFb4OnjC+sIlyX+/EdwdNYRMnD/pVuHtFFnPSRN/QB0cAVtsnB6qm6qEWJkRwVq7gkFStkFBDuV41U5RVk9k7zjULMCmMGw3h550h9IG0YNgThWHnYhDGNGZQQDWRv7evY=",
+      "tenantId": "436da2cb-facd-4548-8e07-863dbfb2c374",
+      "subscriptionId": "1d2c4243-4be0-474a-b212-2cd56f17ac85",
+      "resourceGroup": "AliNizarGroup",
+      "serviceName": "mywebappbotnizaraeb6",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "26f6dce5-5199-4e99-ba27-6d1ccec0600a",
+      "appPassword": "9leFf071Dzd0YoJ5L5gOfw==!ruPM9Adti56kBSvdwvphtixrMVuNCfnykoStPIbzlng=",
+      "endpoint": "https://mywebappbotnizar.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "47c445d4-4d6b-40d7-9507-76b1e5418639",
+      "authoringKey": "M4NHgMhLpDAZMYrpzAv7Hw==!Rhk5/7/4tEXjGer7QnNZlTyQALcA2MMRptV6wtijPCnFuARJQy41Z0Tjn8gM3nDi",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
